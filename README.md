@@ -22,4 +22,5 @@ D-ID: Criação de voz e vídeo para a imagem/personagem gerada no Bing.
 
 ## Resultado:
 
-[![alt text](https://img.youtube.com/vi/video-id/0.jpg)](https://studio.d-id.com/share?id=38bd2bc600bcb7b7183e968bac352c8f&utm_source=copy)
+https://github.com/user-attachments/assets/e3343258-659b-4d7c-a774-4baa6902dbe9
+
